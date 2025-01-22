@@ -1,14 +1,14 @@
 Board Information Report
 Filename     : S:\vivekselvamoorthy-a2dconverter\Design-Files\NMEA2K-Converter-v1.0\NMEA2K-Converter-v1.0.PcbDoc
-Date         : 1/21/2025
-Time         : 5:32:04 PM
+Date         : 1/22/2025
+Time         : 5:30:38 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 48.09%
+    Routing completion, 57.77%
     Connections, 341
-    Connections routed, 164
-    Connections remaining, 177
+    Connections routed, 197
+    Connections remaining, 144
 count : 4
 
 Net Track Width, Count
