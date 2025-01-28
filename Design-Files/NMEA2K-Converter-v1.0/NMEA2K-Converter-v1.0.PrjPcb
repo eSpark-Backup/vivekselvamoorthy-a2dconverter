@@ -218,6 +218,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXKHDPBA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for NMEA2K-Converter-v1.0\Design Rule Check - NMEA2K-Converter-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
